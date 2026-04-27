@@ -5,3 +5,4 @@ node.zip
 dist/
 .DS_Store
 *.log
+node-v20.18.0-win-x64/
